@@ -3,6 +3,9 @@ execute omok game in your terminal
 
 Omok game played by two people.
 
+### 한국어 버전(korean version)
+https://github.com/sunjungAn/omok_game/blob/master/omok_manual.pdf
+
 ### execute sequence
 
 1. git clone "https://github.com/sunjungAn/omok_game.git"
