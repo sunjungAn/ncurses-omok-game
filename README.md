@@ -27,6 +27,7 @@ It is the first window that comes out when you press the Game Start menu. If you
 Move the arrow key and press the enter key where you want to put it.
 
 If the outcome is determined in the game.The picture shown below as floats your name is win.
+
 ![image](https://user-images.githubusercontent.com/55094745/142627190-559cb18b-16c0-42f2-9055-abcc858fcbe9.png)
 
 When you press the find user menu, you can see the victory or defeat of the users who played the game.
