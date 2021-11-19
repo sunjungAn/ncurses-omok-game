@@ -22,6 +22,8 @@ It's the first window of a game program. Choose one of the three menus and press
 ![image](https://user-images.githubusercontent.com/55094745/142626807-19f15ab6-761a-4b9f-a6b9-c73eeac81d97.png)
 
 It is the first window that comes out when you press the Game Start menu. If you write down the names of User1 and user2, press f1.
+
+
 ![image](https://user-images.githubusercontent.com/55094745/142626938-a0852aa9-d1b6-411b-8ea0-073fc648802b.png)
 
 Move the arrow key and press the enter key where you want to put it.
