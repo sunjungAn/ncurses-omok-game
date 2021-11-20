@@ -1,5 +1,5 @@
 # omok_game
-execute omok game in your terminal
+execute omok game in your terminal (only linux)
 
 Omok game played by two people.
 
